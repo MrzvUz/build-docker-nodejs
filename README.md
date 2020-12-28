@@ -36,6 +36,7 @@
 # Install necessary plugins in Jenkins.
 -> NodeJS plugin
 -> CloudBees Docker Build and Publish plugin
+-> Job DSL
 
 01. Create new job to build without docker.
 -> Manage Jenkins > Global Tool Conf > Add NodeJS > "nodejs"
